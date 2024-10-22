@@ -1,5 +1,5 @@
 This repository supports the research activity covered by Task 2.7 of WP2,  concerning advanced AI solutions for rapidly inferring structured 3D interior building models from visual information and possibly other sensor data (depth, movement traces). 
-![](assets/overview.jpg)
+![](assets/overview.png)
 
 **Overview**:
 The automatic 3D reconstruction, modeling, and exploration of indoor scenes has become a prominent and increasingly well-defined research topic in recent years. 
