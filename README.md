@@ -1,4 +1,4 @@
-This repository presents preliminary results related to Task 2.7-WP2 in the HPCCN: National Center for HPC, Big Data and Quantum Computing Spoke 9 Digital Society and Smart Cities. 
+This repository presents preliminary results related to Task 2.7-WP2 in the HPCCN: National Center for HPC, Big Data and Quantum Computing Spoke 9 Digital Society and Smart Cities [PAGE](https://www.supercomputing-icsc.it/en/partnership/). 
 The HPCCN promotes national and international-level innovation, building on a state-of-the-art infrastructure for computation and big data management. 
 The results presented in this repository are specifically related to the Spoke 9 (Digital Cities) of the main project, concerning advanced AI solutions for rapidly inferring structured 3D interior building models from visual information and possibly other sensor data (depth, movement traces).
 ![](assets/overview.png)
