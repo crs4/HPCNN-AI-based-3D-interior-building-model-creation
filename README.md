@@ -1,5 +1,3 @@
-#HPCNN AI based 3D interior building model creation
-
 This repository supports the research activity covered by Task 2.7 of WP2,  concerning advanced AI solutions for rapidly inferring structured 3D interior building models from visual information and possibly other sensor data (depth, movement traces). 
 
 **Overview**:
