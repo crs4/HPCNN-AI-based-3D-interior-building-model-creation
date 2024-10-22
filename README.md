@@ -1,7 +1,10 @@
-This repository supports the research activity covered by Task 2.7 of WP2,  concerning advanced AI solutions for rapidly inferring structured 3D interior building models from visual information and possibly other sensor data (depth, movement traces). 
+This repository presents information and results related to Task 2.7-WP2 in the HPCCN: National Center for HPC, Big Data and Quantum Computing Spoke 9 Digital Society and Smart Cities. 
+The HPCCN promotes national and international-level innovation, building on a state-of-the-art infrastructure for computation and big data management. 
+The results presented in this repository are specifically related to the Spoke 9 (Digital Cities) of the main project, concerning advanced AI solutions for rapidly inferring structured 3D interior building models from visual information and possibly other sensor data (depth, movement traces).
 ![](assets/overview.png)
 
 **Overview**:
+
 The automatic 3D reconstruction, modeling, and exploration of indoor scenes has become a prominent and increasingly well-defined research topic in recent years. 
 Current efforts are particularly focused on developing specialized techniques for common, highly structured multi-room environments, such as residential, office, or public buildings, which have a substantial impact on architecture, civil engineering, digital mapping, urban geography, real estate, and more. In this context, the emphasis has shifted from creating dense 3D models that assemble every measured geometric and visual detail to abstracting high-level structured models that are optimized for specific application-dependent characteristics and incorporate a degree of semantic information. Central to this research are the tasks of identifying architectural elements (such as rooms, walls, windows, and doors) and indoor objects, and integrating them into a coherent structured 3D representation and visual model.
 
