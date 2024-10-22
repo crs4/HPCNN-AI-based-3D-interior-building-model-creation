@@ -23,4 +23,4 @@ Even with the extensive context provided by panoramic images, recovering accurat
 -  Giovanni Pintore, Alberto Jaspe-Villanueva, Markus Hadwiger, Jens Schneider, Marco Agus, Fabio Marton, Fabio Bettio, and Enrico Gobbetti. Deep synthesis and exploration of omnidirectional stereoscopic environments from a single surround-view panoramic image. Computers & Graphics, 119: 103907, March 2024. DOI: 10.1016/j.cag.2024.103907.
 
 **Prototypes and demos**:
-- Demo implementation of a novel deep synthesis and exploration of omnidirectional stereoscopic environments method [CODE] (https://github.com/crs4/DeepOmniStereoFromMonoIndoorPano)
+- Demo implementation of a novel deep synthesis and exploration of omnidirectional stereoscopic environments method [CODE](https://github.com/crs4/DeepOmniStereoFromMonoIndoorPano)
