@@ -3,6 +3,14 @@ The HPCCN promotes national and international-level innovation, building on a st
 The results presented in this repository are specifically related to the Spoke 9 (Digital Cities) of the main project, concerning advanced AI solutions for rapidly inferring structured 3D interior building models from visual information and possibly other sensor data (depth, movement traces).
 ![](assets/overview.png)
 
+## Updates
+* 2024-10-22: Preliminary results repository (this page) release to public.
+* 2024-10-22: Approach for predicting complex indoor floor plans public release.
+* 2024-07-15: Approach for predicting complex indoor floor plans updated.
+* 2024-07-10: Approach for predicting complex indoor floor plans first demo.
+* 2024-01-12: Omnidirectional stereo methods updated.
+* 2024-01-11: Omnidirectional stereo methods public demo release.
+
 **Overview**:
 
 The automatic 3D reconstruction, modeling, and exploration of indoor scenes has become a prominent and increasingly well-defined research topic in recent years. 
