@@ -24,3 +24,4 @@ Even with the extensive context provided by panoramic images, recovering accurat
 
 **Prototypes and demos**:
 - Demo implementation of a novel deep synthesis and exploration of omnidirectional stereoscopic environments method [CODE](https://github.com/crs4/DeepOmniStereoFromMonoIndoorPano)
+- Demo implementation of deep-learning approach for predicting complex indoor floor plans from registered omnidirectional images [CODE](https://github.com/crs4/DeepOmniStereoFromMonoIndoorPano)
